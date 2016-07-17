@@ -11,8 +11,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
