@@ -1,4 +1,4 @@
-<code_scheme name="nepjua">
+<code_scheme name="nepjua_no-inline">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -12,6 +12,7 @@
     </value>
   </option>
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,li,a,img" />
+  <option name="HTML_INLINE_ELEMENTS" value="" />
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
   </JSCodeStyleSettings>
@@ -56,12 +57,6 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="Jade">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -84,12 +79,6 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Stylus">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
