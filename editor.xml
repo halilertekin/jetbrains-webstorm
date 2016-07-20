@@ -1,6 +1,6 @@
 <application>
   <component name="EditorSettings">
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
