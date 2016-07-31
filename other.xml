@@ -51,11 +51,11 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="6.3.1" last-modified="1469157984000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.2/bin/node">
       <version-cache version="6.2.2" last-modified="1466173935000" />
-    </local-interpreter>
-    <local-interpreter path="/usr/bin/node">
-      <version-cache version="6.2.2" last-modified="1466221616000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.12.0/bin/node">
       <version-cache version="5.12.0" last-modified="1466688343000" />
