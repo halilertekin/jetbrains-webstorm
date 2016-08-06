@@ -22,10 +22,15 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
