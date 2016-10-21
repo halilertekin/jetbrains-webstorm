@@ -1,0 +1,6 @@
+<application>
+  <component name="BuckOptionsProvider">
+    <option name="buckExecutable" value="" />
+    <option name="adbExecutable" value="" />
+  </component>
+</application>
